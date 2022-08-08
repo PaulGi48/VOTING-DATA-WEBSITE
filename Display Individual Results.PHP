@@ -28,36 +28,6 @@ $cache_dir = './cache/';
         </div>
 </div>
 <style>
-html {
-    margin: 0;
-    padding: 0;
-    background-color: azure;
-}
-
-body {
-    margin: 0;
-    padding: 0
-
-}
-
-
-#list {
-    margin: 500;
-    margin-left: 800px;
-}
-
-#mapouter {
-    position: absolute;
-    text-align: center;
-    height: 2000px;
-    width: 1600px;
-}
-#gmap_canvas {
-    overflow: hidden;
-    background: none !important;
-    height: 2000px;
-    width: 1600px;
-}
 </style>
 
 </body>
