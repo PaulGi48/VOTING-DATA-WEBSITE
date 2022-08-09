@@ -34,7 +34,6 @@ if (isset($_SESSION['id_user'])) {
 				<li><a href="index.php">Home</a></li>
 				<li><a href="" data-toggle="modal" data-target="#modal-register">Register</a></li>
 				<li><a href="" data-toggle="modal" data-target="#modal-login">Login</a></li>
-				<li><a href="" data-toggle="modal" data-target="#modal-contactus">Contact Us</a></li>
 			</ul>
 		</div>
 	</nav>
@@ -224,17 +223,7 @@ if (isset($_SESSION['id_user'])) {
 			</div>
 		</div>
 	</div>
-    <div id="mapouter">
-        <div id="gmap_canvas">
-            <iframe width="600" height="500" id="gmap_canvas"
-                src="https://maps.google.com/maps?q=delta%20state%20nigeria&t=&z=13&ie=UTF8&iwloc=&output=embed"
-                frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-            <a href="https://123movies-to.org">
-            </a>
-            <br>
-            <a href="https://www.embedgooglemap.net">GOOGLE MAPS</a>
-        </div>
-</div>
+
 </body>
 
 </html>
